@@ -1021,7 +1021,7 @@ footer h3{
      .img-1, .img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9{
         margin: 0 0 20px 0;
      }
-     .introdactions{
+     .introdactions, .menu, .main img, .contacts img, .eyes{
          display: none;
      }
 
